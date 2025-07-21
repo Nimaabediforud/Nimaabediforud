@@ -13,7 +13,7 @@
 ### 🧠 About Me
 🎓 Biomedical Engineer - passionate about AI-driven healthcare innovation  
 🔬 Exploring signal processing, biomedical data, and intelligent diagnostic systems  
-🚀 On a mission to fuse engineering, biology, and machine learning for real-world impact  
+🚀 On a mission to fuse engineering, medicine, biology, machine learning, deep learning for real-world impact  
 
 ---
 
@@ -59,8 +59,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)  
-[![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)  [![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
