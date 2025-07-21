@@ -27,9 +27,9 @@
 ---
 
 ### 🔭 Featured Projects
-| Project | Link | Highlights |
+| Project | Description | Highlights |
 | --- | --- | --- |
-| [EDA Heart/Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Data Analyzing, Visualizing, Making report | Modular design, Categorized, Elegant |
+| [EDA Heart/Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Data Analyzing, Visualizing, Making report | Modular, Categorized, Elegant design|
 
 ---
 
@@ -41,7 +41,8 @@
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nima-abedi-forud-625205325)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nima-abedi-forud-625205325)
+[![Email](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=email&logoColor=white)](Nimaabediforud@gmail.com)
 
 ---
 
