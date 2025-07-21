@@ -26,6 +26,8 @@
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office"/></code>
 
 ---
 
@@ -51,6 +53,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimaabediforud&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
