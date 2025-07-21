@@ -2,11 +2,11 @@
   <img src="https://img.shields.io/badge/Hi 👋-I'm%20Nima-blue" alt="Greeting"/>
 </p>
 
-<h1 align="center">Nima<br><sub>Biomedical Engineer • Python Programmer • AI/ML Enthusiast</sub></h1>
+<h1 align="center">Nima Abedi Forud<br><sub>Biomedical Engineer • Python Programmer • AI/ML Enthusiast</sub></h1>
 
 <p align="center">
   Exploring the intersection of AI & biomedical engineering. 
-  Learning, building, debugging—and sharing every step on GitHub.
+  Learning, building, debugging—and sharing them on GitHub.
 </p>
 
 ---
@@ -20,29 +20,28 @@
 
 ### 📚 Learning Journey
 - Completed and grasped certificate of **CS50P** 
-- Completing **CS50AI** — currently exploring lectures  
-- Diving into **Reinforcement Learning** and **Medical Imaging AI**  
+- Completing **CS50AI** — currently exploring lectures    
 - Building reports of **biomedical data** and analyzing them
+- Fucosed on bridging **Biomedical & Engineering** — Exploring, Researching and Inventing
 
 ---
 
 ### 🔭 Featured Projects
-| Project | Description | Highlights |
+| Project | Link | Highlights |
 | --- | --- | --- |
-| [EDA Heart|Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Data Analyzing, Visualizing, Making report | Modular design, Categorized, Elegant |
+| [EDA Heart/Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Data Analyzing, Visualizing, Making report | Modular design, Categorized, Elegant |
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimaabediforud&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub stats"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nima-abedi-forud-625205325)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nima-abedi-forud-625205325)  
 
 ---
 
