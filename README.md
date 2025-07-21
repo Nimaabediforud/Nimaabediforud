@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi👋-I'm%20Nima-blue" alt="Greeting"/>
+</p>
 
-<!--
-**Nimaabediforud/Nimaabediforud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Nima<br><sub>Biomedical Engineer • Python Programmer • AI/ML Enthusiast</sub></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Exploring the intersection of AI & biomedical engineering. 
+  Learning, building, debugging—and sharing every step on GitHub.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills & Tools
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
+---
+
+### 📚 Learning Journey
+- Completed and grasped certificate of **CS50P** 
+- Completing **CS50AI** — currently exploring lectures  
+- Diving into **Reinforcement Learning** and **Medical Imaging AI**  
+- Building reports of **biomedical data** and analyzing them
+
+---
+
+### 🔭 Featured Projects
+| Project | Description | Highlights |
+| --- | --- | --- |
+| [8‑Puzzle Solver](https://github.com/yourusername/8-puzzle) | AI search agent using BFS & A* | Modular design, state tracking, path output |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub stats"/>
+</p>
+
+---
+
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nima-abedi-forud-625205325)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+*Profile built with 💡 + Tech x Science dedication*
