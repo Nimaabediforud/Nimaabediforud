@@ -54,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nimaabediforud&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
@@ -62,6 +61,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)  
 [![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
