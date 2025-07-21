@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-🎓 5th-semester Biomedical Engineering student passionate about AI-driven healthcare innovation  
+🎓 Biomedical Engineer - passionate about AI-driven healthcare innovation  
 🔬 Exploring signal processing, biomedical data, and intelligent diagnostic systems  
 🚀 On a mission to fuse engineering, biology, and machine learning for real-world impact  
 
