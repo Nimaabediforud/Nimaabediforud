@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi👋-I'm%20Nima-blue" alt="Greeting"/>
+  <img src="https://img.shields.io/badge/Hi 👋-I'm%20Nima-blue" alt="Greeting"/>
 </p>
 
 <h1 align="center">Nima<br><sub>Biomedical Engineer • Python Programmer • AI/ML Enthusiast</sub></h1>
@@ -13,10 +13,7 @@
 
 ### 🛠 Skills & Tools
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 ---
@@ -32,7 +29,7 @@
 ### 🔭 Featured Projects
 | Project | Description | Highlights |
 | --- | --- | --- |
-| [8‑Puzzle Solver](https://github.com/yourusername/8-puzzle) | AI search agent using BFS & A* | Modular design, state tracking, path output |
+| [EDA Heart|Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Data Analyzing, Visualizing, Making report | Modular design, Categorized, Elegant |
 
 ---
 
