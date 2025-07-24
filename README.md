@@ -70,7 +70,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)  [![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 
 ---
 
