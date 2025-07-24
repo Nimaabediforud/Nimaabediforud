@@ -51,12 +51,14 @@
 
 ### 📊 GitHub Stats
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=Nimaabediforud&count_private=true&show_icons=true&hide=prs,issues,stars&theme=default&custom_title=Total%20Contributions%20&%20Commits)
-![GitHub Streak](https://streak-stats.demolab.com?user=Nimaabediforud&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimaabediforud&count_private=true&show_icons=true&hide=prs,issues,stars&theme=tokyonight&custom_title=Total%20Commits%20(Private%20+%20Public))
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nimaabediforud&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ### 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimaabediforud&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimaabediforud&layout=compact&theme=tokyonight)
+
 
 ---
 
