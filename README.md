@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-🎓 Biomedical Engineer - passionate about AI-driven healthcare innovation, self & lifelong learner
+🎓 Biomedical Engineer - passionate about AI-driven healthcare innovation, self & lifelong learner  
 🔬 Exploring signal processing, biomedical data, and intelligent diagnostic systems  
 🚀 On a mission to fuse engineering, medicine, biology, machine learning, deep learning for real-world impact  
 
