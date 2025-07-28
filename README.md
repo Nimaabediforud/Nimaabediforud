@@ -55,12 +55,6 @@
 
 ────────────────────────────────────────────────────────────
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nimaabediforud&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-────────────────────────────────────────────────────────────
-
 ### 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimaabediforud&layout=compact&theme=tokyonight)
