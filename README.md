@@ -33,9 +33,9 @@
 
 ### 📚 Learning Journey
 - ✅ Earned certificate in **Harvard's CS50P: Introduction to Programming with Python**
-- 🧠 Currently working through **CS50AI: Introduction to Artificial Intelligence with Python**
+- ✅ Earned certificate in **Harvard's CS50AI: Introduction to Artificial Intelligence with Python**
 - 📊 Developing end-to-end reports on **biomedical signal/data analysis**
-- 🧪 Focused on integrating **biomedical engineering, AI**, and **research** to invent smarter solutions
+- 🧠 Focused on integrating **biomedical engineering, AI**, and **research** to invent smarter solutions
 
 ---
 
