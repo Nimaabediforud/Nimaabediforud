@@ -17,7 +17,6 @@
 
 ---
 
-### 🛠 Skills & Tools
 
 ### 🛠 Skills & Tools
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
