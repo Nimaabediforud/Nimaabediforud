@@ -26,9 +26,9 @@
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
 <code><img height="24" src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks"/></code>
 <code><img height="24" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office"/></code>
 
