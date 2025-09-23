@@ -45,11 +45,12 @@
 
 | Project | Description | Highlights |
 |--------|-------------|------------|
-| [EDA: Cardiovascular Diseases](https://github.com/Nimaabediforud/EDA-Heart-Diseases-Project) | Exploratory data analysis on heart disease dataset | Clean visualizations, categorized notebooks, insightful observations |
+| [Heart Disease Prediction](https://github.com/Nimaabediforud/Heart-Disease-Prediction) | Machine learning models & ANNs predicting the presence of heart disease | End-to-end workflow, model benchmarking, clean modular design |
 
 *More projects coming soon...*
 
 ---
+
 
 ### 📊 GitHub Stats
 
