@@ -2,42 +2,55 @@
   <img src="https://img.shields.io/badge/Hi 👋-I'm%20Nima-orange" alt="Greeting"/>
 </p>
 
-<h1 align="center">Nima Abedi Forud<br><sub>Biomedical Engineer • Python Developer • AI/ML Enthusiast</sub></h1>
+<h1 align="center">
+  Nima Abedi Forud<br>
+  <sub>Biomedical Engineer • Python Developer • Embedded Systems Learner • AI/ML Enthusiast</sub>
+</h1>
 
 <p align="center">
-  Bridging Biomedical Engineering with AI — Learning, Building, Debugging, and Sharing.
+  Bridging Biomedical Engineering with AI, Data, and Embedded Systems — Learning, Building, Debugging, and Sharing.
 </p>
 
 ---
 
 ### 🧠 About Me
-🎓 Biomedical Engineer - passionate about AI-driven healthcare innovation, self & lifelong learner  
-🔬 Exploring signal processing, biomedical data, and intelligent diagnostic systems  
-🚀 On a mission to fuse engineering, medicine, biology, machine learning, deep learning for real-world impact  
+🎓 Biomedical Engineering undergraduate with a strong interest in **AI-driven healthcare**, **embedded systems**, and **technical problem-solving**  
+🔬 Exploring biomedical data analysis, signal processing fundamentals, and intelligent diagnostic systems  
+⚙️ Currently learning **C programming for embedded systems**, electronics, and **PCB design** alongside Python-based AI workflows  
+🚀 Passionate about connecting **engineering, medicine, and technology** to build practical, real-world solutions  
 
 ---
 
-
 ### 🛠 Skills & Tools
+
+#### Programming & Data
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
+#### Data Science & AI
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
+
+#### Embedded Systems & Engineering Tools
+<code><img height="24" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/circuit.png" alt="Electronics"/></code>
 <code><img height="24" src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks"/></code>
 <code><img height="24" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft Office"/></code>
 
 ---
 
 ### 📚 Learning Journey
-- ✅ Earned certificate in **Harvard's CS50P: Introduction to Programming with Python**
-- ✅ Earned certificate in **Harvard's CS50AI: Introduction to Artificial Intelligence with Python**
-- 📊 Developing end-to-end reports on **biomedical signal/data analysis**
-- 🧠 Focused on integrating **biomedical engineering, AI**, and **research** to invent smarter solutions
+- ✅ **CS50P – Introduction to Programming with Python (Harvard University)**  
+- ✅ **CS50AI – Introduction to Artificial Intelligence with Python (Harvard University)**  
+- 🧠 Studying **machine learning & neural networks** through hands-on projects  
+- ⚙️ Learning **C programming for embedded systems**, microcontroller concepts, and electronics  
+- 🖥️ Exploring **PCB design fundamentals using Altium Designer**  
+- 📊 Applying data analysis & visualization techniques to **biomedical datasets**
 
 ---
 
@@ -45,30 +58,20 @@
 
 | Project | Description | Highlights |
 |--------|-------------|------------|
-| [Heart Disease Prediction](https://github.com/Nimaabediforud/Heart-Disease-Prediction) | Machine learning models & ANNs predicting the presence of heart disease | End-to-end workflow, model benchmarking, clean modular design |
+| [Heart Disease Prediction](https://github.com/Nimaabediforud/Heart-Disease-Prediction) | Supervised ML models & neural networks for predicting heart disease | End-to-end workflow, EDA, preprocessing, model comparison |
 
-*More projects coming soon...*
+*More projects coming soon… (AI • Embedded • Biomedical)*
 
----
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimaabediforud&count_private=true&show_icons=true&hide=prs,issues,stars&theme=tokyonight&custom_title=Total%20Commits%20(Private%20+%20Public))
 
 ────────────────────────────────────────────────────────────
 
-### 🧠 Most Used Languages
+### 📫 Let’s Connect
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimaabediforud&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)
+[![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
 
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NimaAbediForud-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-abedi-forud-625205325)  [![Gmail](https://img.shields.io/badge/Email-NimaAbediForud-red?logo=gmail&logoColor=white)](mailto:Nimaabediforud@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Nimaabediforud&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 
 ---
 
-<sub>Profile built with 💡 Tech x Science | Fueled by curiosity and purpose.</sub>
+<sub>Profile built with 💡 Tech × Science — learning by building, improving by curiosity.</sub>
