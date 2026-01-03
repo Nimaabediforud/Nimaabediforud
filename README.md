@@ -58,6 +58,8 @@
 | Project | Description | Highlights |
 |--------|-------------|------------|
 | [Heart Disease Prediction](https://github.com/Nimaabediforud/Heart-Disease-Prediction) | Supervised ML models & neural networks for predicting heart disease | End-to-end workflow, EDA, preprocessing, model comparison |
+| [BioFusion: Hybrid Biomedical Prediction](https://github.com/Nimaabediforud/BioFusion-Hybrid-Biomedical-Prediction) | Hybrid ML and deep learning models for biomedical data (specifically diabetes) prediction | Structural project including EDA, preprocessing, model benchmarking, hyperparameter tuning, training and evaluation |
+| [Fracture Detection and Bone Classification](https://github.com/Nimaabediforud/Fracture-Detection-and-Bone-Classification) | Automated detection and classification of bone fractures using imaging data | Image preprocessing, CNN-based models, preliminary accuracy evaluation |
 
 *More projects coming soon… (AI • Embedded • Biomedical)*
 
