@@ -64,15 +64,6 @@
 *More projects coming soon… (AI • Embedded • Biomedical)*
 
 ---
-<p align="center">
-  <img width="700" src="https://stats.hyo.dev/api/github-stats-advanced?login=Nimaabediforud" />
-</p>
-
-<p align="center">
-  <img width="800" src="https://stats.hyo.dev/api/github-trophies?login=Nimaabediforud" />
-</p>
-
----
 
 ### 📫 Let’s Connect
 
