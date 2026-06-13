@@ -69,10 +69,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nima-abedi-forud-625205325">
+  <a href="www.linkedin.com/in/nima-abedi-forud-eng">
     <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
   </a>
-  <a href="mailto:Nimaabediforud@gmail.com">
+  <a href="mailto:abediforud.nima@gmail.com">
     <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
   </a>
   <a href="https://github.com/Nimaabediforud">
